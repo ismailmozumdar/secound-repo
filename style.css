@@ -4,3 +4,7 @@ h1{
 p{
     color: salmon;
 }
+img{
+    height: 100px;
+    width: 100px;
+}
